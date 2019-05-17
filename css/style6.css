@@ -1,0 +1,43 @@
+* {font-family: verdana;
+	font-weight: bold;
+}
+
+#home-page{
+	color: grey;
+	margin-top: 60px;
+	padding-top: 20px;
+}
+
+#book-button{
+	margin-top: 50px;
+}
+
+#welcome{
+	text-align: right;
+}
+
+.img-responsive img-circle{
+	padding-bottom: 20px;
+}
+
+.error {
+	width: 92%; 
+	margin: 0px auto; 
+	margin-bottom: 20px;
+	padding: 0px; 
+	border: 1px solid #a94442; 
+	color: #a94442; 
+	background: #f2dede; 
+	border-radius: 5px; 
+	text-align: center;
+}
+
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+  padding: 0px; 
+  border-radius: 5px; 
+  text-align: center;
+}
